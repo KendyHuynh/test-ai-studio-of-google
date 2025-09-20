@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Composer",
+  "description": "An AI-powered application to seamlessly blend a person and a product into a single, high-quality, realistic image using Google's Gemini API.",
+  "requestFramePermissions": []
+}
